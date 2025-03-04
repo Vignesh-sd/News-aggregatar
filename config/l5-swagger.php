@@ -18,7 +18,7 @@ return [
 
 
             'api' => [
-                'title' => 'L5 Swagger UI',
+                'title' => 'L5 Swagger',
             ],
 
             'routes' => [
